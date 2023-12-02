@@ -15,7 +15,7 @@ a {
     letter-spacing: 0.02em;
     word-wrap: break-word
 }
-.link-mark:hover, :focus {
+.link-mark:hover, :focus{
     color: #404bbf;
 
 }
@@ -44,7 +44,7 @@ color:#2e2f42 ;
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
-.link-contacts:hover, focus{
+.link-contacts:hover, :focus{
     color: #404bbf;
 }
 .wrap {
@@ -73,7 +73,9 @@ color:#2e2f42 ;
 .button:hover, :focus {
     background-color: #404BBF;
 }
-
+.section-team {
+    background-color: #F4F4FD; 
+}
 .subtitle {
     color: #2e2f42;
     font-weight: 500;
@@ -92,6 +94,9 @@ color:#2e2f42 ;
     line-height: 1.11;
     letter-spacing: 0.02em;
     word-wrap: break-word
+}
+.people {
+    background-color: #FFFFFF;
 }
 .text {
     color: #434455;
